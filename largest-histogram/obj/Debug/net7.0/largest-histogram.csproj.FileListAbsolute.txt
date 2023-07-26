@@ -1,0 +1,15 @@
+C:\Users\Quyson\Desktop\computer\leetcode\stack\largest-histogram\bin\Debug\net7.0\largest-histogram.exe
+C:\Users\Quyson\Desktop\computer\leetcode\stack\largest-histogram\bin\Debug\net7.0\largest-histogram.deps.json
+C:\Users\Quyson\Desktop\computer\leetcode\stack\largest-histogram\bin\Debug\net7.0\largest-histogram.runtimeconfig.json
+C:\Users\Quyson\Desktop\computer\leetcode\stack\largest-histogram\bin\Debug\net7.0\largest-histogram.dll
+C:\Users\Quyson\Desktop\computer\leetcode\stack\largest-histogram\bin\Debug\net7.0\largest-histogram.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\stack\largest-histogram\obj\Debug\net7.0\largest-histogram.csproj.AssemblyReference.cache
+C:\Users\Quyson\Desktop\computer\leetcode\stack\largest-histogram\obj\Debug\net7.0\largest-histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quyson\Desktop\computer\leetcode\stack\largest-histogram\obj\Debug\net7.0\largest-histogram.AssemblyInfoInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\stack\largest-histogram\obj\Debug\net7.0\largest-histogram.AssemblyInfo.cs
+C:\Users\Quyson\Desktop\computer\leetcode\stack\largest-histogram\obj\Debug\net7.0\largest-histogram.csproj.CoreCompileInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\stack\largest-histogram\obj\Debug\net7.0\largest-histogram.dll
+C:\Users\Quyson\Desktop\computer\leetcode\stack\largest-histogram\obj\Debug\net7.0\refint\largest-histogram.dll
+C:\Users\Quyson\Desktop\computer\leetcode\stack\largest-histogram\obj\Debug\net7.0\largest-histogram.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\stack\largest-histogram\obj\Debug\net7.0\largest-histogram.genruntimeconfig.cache
+C:\Users\Quyson\Desktop\computer\leetcode\stack\largest-histogram\obj\Debug\net7.0\ref\largest-histogram.dll
